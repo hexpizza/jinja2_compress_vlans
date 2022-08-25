@@ -17,5 +17,5 @@ To install download the repository and put the script compress_vlans.py to 'filt
 
 To use filter create a construction similar to: 
 ```
-{{ vlans|compress_vlans}}
+{{ vlans|compress_vlans }}
 ```
